@@ -1,0 +1,7 @@
+## Interface: 100207
+## Title: CompactRaidFrame
+## Notes: Decreases size of blizzard raid frames
+## Author: Redmountain-Nightslayer
+## Version: 1.0
+
+CompactRaidFrame.lua
